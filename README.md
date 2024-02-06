@@ -1,1 +1,6 @@
-# Hamming-data-encoding-decoding-algorithm
+#Building:
+``` 
+mkdir build && cd build
+cmake ..
+make
+```
